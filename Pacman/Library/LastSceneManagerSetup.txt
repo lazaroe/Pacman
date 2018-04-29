@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/DMBgame.unity
+- path: Assets/DMBMenu.unity
   isLoaded: 1
   isActive: 1
